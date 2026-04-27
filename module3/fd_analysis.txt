@@ -1,0 +1,5 @@
+P_ID -> P_Name, P_Gender, P_EntryDate, P_ExitDate
+Dr_ID -> Dr_Name, Dr_Gender, Dr_Specialization
+N_ID -> N_Name, N_Email
+R_ID -> R_Name, R_Gender, R_Add
+Room_ID -> R_Number, R_Serial

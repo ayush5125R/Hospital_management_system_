@@ -1,0 +1,26 @@
+Hospital Management System
+Normalization Comparison Report
+
+1. Before Normalization:
+- Data stored in a single large table.
+- Repetition of doctor names, room details, nurse details.
+- More data redundancy.
+- Update anomalies possible.
+- Insert and delete anomalies possible.
+
+2. After Normalization:
+- Data divided into separate tables:
+  Patient, Doctor, Nurse, Receptionist, Room.
+- Reduced duplicate data.
+- Better data consistency.
+- Easier updates and maintenance.
+- Proper use of primary keys and foreign keys.
+
+3. Advantages of Normalization:
+- Saves storage space.
+- Prevents inconsistency.
+- Improves query performance.
+- Better database structure.
+
+4. Final Result:
+Hospital Management System database converted into normalized form up to 3NF/BCNF for efficient management.
