@@ -1,0 +1,9 @@
+Simple API Documentation
+
+This project uses PHP to connect MySQL database.
+
+Functions:
+- Fetch patient records
+- Display data on web page
+
+No external API used.

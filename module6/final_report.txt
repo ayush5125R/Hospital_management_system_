@@ -1,0 +1,15 @@
+Hospital Management System - Final Report
+
+This project manages patient, doctor, room, and hospital data using MySQL.
+
+Modules Covered:
+- ER Diagram and Schema
+- SQL Queries
+- Normalization
+- Transactions (ACID)
+- Concurrency Control
+
+The system demonstrates core DBMS concepts with practical implementation.
+
+Conclusion:
+The project successfully implements a basic hospital database system.
