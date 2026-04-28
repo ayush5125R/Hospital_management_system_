@@ -1,0 +1,13 @@
+Performance Analysis of Concurrency Control
+
+In this experiment, two transactions tried to update the same room record at the same time.
+
+The first transaction locked the row because it was not committed immediately.
+Due to this lock, the second transaction had to wait before making changes.
+
+This shows that locking helps maintain data correctness and prevents conflicts.
+
+However, it can also slow down the system if many users try to access the same data simultaneously.
+
+Conclusion:
+Concurrency control ensures data consistency but may reduce performance if not handled properly.

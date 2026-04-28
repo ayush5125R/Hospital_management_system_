@@ -1,0 +1,9 @@
+In this test, two transactions tried to update the same room at the same time.
+
+The first transaction locked the record because it was not committed.
+
+When the second transaction tried to update the same row, it had to wait.
+
+After the first transaction was committed, the second transaction continued.
+
+This shows how locking works in databases to avoid conflicts.
