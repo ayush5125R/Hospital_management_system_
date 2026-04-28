@@ -1,0 +1,13 @@
+ACID Properties Test
+
+1. Atomicity:
+Transaction completed fully using COMMIT.
+
+2. Consistency:
+Valid room and patient data maintained.
+
+3. Isolation:
+Transactions executed independently.
+
+4. Durability:
+Committed patient exit date remained saved.

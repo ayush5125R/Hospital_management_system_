@@ -1,0 +1,9 @@
+Module 4 Test Results
+
+1. COMMIT successful:
+Patient discharge date updated.
+
+2. ROLLBACK successful:
+Room number returned to original value.
+
+3. Database integrity maintained.
